@@ -9,7 +9,7 @@ function Sidebar({ isActive, toggleSidebar, data }) {
                 <img id="image" className="image-landmark" src={data.image || ""} alt={data.name || "Landmark"} />
                 <img
                     className="close-sidebar"
-                    src="https://cdn.chemtradeasia.com/oleo_chemicals_india/icon/close.webp"
+                    src="./src/assets/close.webp"
                     alt="close icon"
                     onClick={toggleSidebar}
                 />

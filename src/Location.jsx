@@ -38,7 +38,7 @@ function Location() {
       <div className="container" id="container" style={{ position: "relative" }}>
         <div className="world-map">
           <img
-            src="https://cdn.chemtradeasia.com/container-assets/icon/worldmap.png"
+            src="./src/assets/worldmap.png"
             alt="world map"
             style={{ width: "100%" }}
           />
