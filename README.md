@@ -1,8 +1,7 @@
-# React + Vite
+# Landmark Location Map with React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is my personal project, inspired by Google and Google Maps, from the way they display information and display it simply using React JS. When a landmark point is clicked, information about the landmark will be displayed.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Screenshoot
+  ![image](https://github.com/user-attachments/assets/00afae27-f745-46d6-8d30-7c3f62b2f889)
