@@ -1,0 +1,39 @@
+body{
+font-family: Arial, Helvetica, sans-serif !important;
+}
+
+.pin {
+  position: absolute;
+  width: 40px; 
+  height: 40px; 
+  background-size: cover;
+  background-repeat: no-repeat;
+  cursor: pointer;
+}
+
+.pin.australia {
+  background-image: url('./src/assets/house.png'); 
+}
+
+.pin.china {
+  background-image: url('./src/assets/great-wall-of-china.png'); 
+}
+.pin.singapore {
+  background-image: url('./src/assets/merlion.png'); 
+}
+
+.australia {
+  top: 76%;
+  left: 88%;
+}
+
+.china {
+  top: 30%;
+  left: 77%;
+}
+.singapore {
+  top: 52%;
+  left: 77%;
+}
+
+
